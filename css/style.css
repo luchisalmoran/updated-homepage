@@ -52,3 +52,18 @@ table{
 td, th {
   border
 }
+.mam{
+    position: absolute;top:600px;left:800px;
+}
+.wow{
+      position: absolute;top:900px;left:800px;
+}
+.lel{
+    position: absolute;top:1200px;left:800px;
+}
+.kow{
+    background-color: rgb(51, 131, 251);
+    position: absolute;top:1400px;left:100px;
+      height:400px;
+      width:20%;
+}
