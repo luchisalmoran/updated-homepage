@@ -67,3 +67,65 @@ td, th {
       height:400px;
       width:20%;
 }
+.pot{
+ font-family: 'Ma Shan Zheng', cursive;
+ font-size: 90px;
+ position: absolute;top:1400px;left:1000px;
+ color: rgb(25, 30, 59);
+}
+.dop{
+   position: absolute;top:1600px;left:1400px;
+}
+.kay{
+  font-family: 'Lobster', cursive;
+  font-size: 70px;
+  position: absolute;top:1500px;left:1500px;
+  color: rgb(208, 51, 86);
+}
+.mk{
+ position: absolute;top:1600px;left:700px;
+}
+img {
+    height: 300px;
+    transition: height 2s, filter 1s;
+}
+
+img.interactive-image:hover {
+    height: 310px;
+    filter: brightness(150%);
+}
+.pow{
+  font-family: 'Lobster', cursive;
+  font-size: 70px;
+  position: absolute;top:1500px;left:900px;
+  color: rgb(208, 51, 86);
+}
+.bun{
+  position: absolute;top:2000px;left:700px;
+}
+.raw{
+  font-family: 'Lobster', cursive;
+  font-size: 70px;
+  position: absolute;top:1900px;left:800px;
+  color: rgb(208, 51, 86);
+}
+.oo{
+    position: absolute;top:2000px;left:1400px;
+}
+.ko{
+  font-size: 70px;
+  font-family: 'Lobster', cursive;
+  position: absolute;top:1900px;left:1500px;
+    color: rgb(208, 51, 86);
+}
+.po{
+  align: center;
+  font-size: 90px;
+  font-family: 'Lobster', cursive;
+    position: absolute;top:2400px;left:700px;
+}
+.woa{
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+    position: absolute;top:2600px;left:300px;
+}
